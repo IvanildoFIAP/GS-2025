@@ -278,7 +278,7 @@ export default function Cadastro() {
               Aqueça quem mais precisa neste inverno
             </h2>
             <p style={{ color: '#546e7a' }}>
-              Participe da nossa rede para doar, ser voluntário, gerenciar recursos e levar esperança.
+              Participe da nossa rede para doar, ser voluntário, gerenciar recursos e levar esperança a quem mais precisa.
             </p>
           </div>
           
