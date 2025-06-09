@@ -99,7 +99,7 @@ export default function Cadastro() {
 
   return (
     <section id="inscricao">
-      <div className="secao-contato" style={{ maxWidth: '1200px', margin: '0 auto', padding: '70px 15px' }}>
+      <div className="secao-contato" style={{ maxWidth: '1200px', margin: '0 auto', padding: '35px 15px' }}>
         <div className="form-contato" style={{ 
           flex: 6,
           backgroundColor: '#1e88e5',
